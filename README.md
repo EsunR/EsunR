@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</picture>
