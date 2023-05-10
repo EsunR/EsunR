@@ -1,4 +1,6 @@
-<img align="right" src="/github-metrics.svg" alt="Metrics">
+<picture>
+  <img align="right" src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ### Hi there 👋
 
