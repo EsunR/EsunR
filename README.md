@@ -6,7 +6,7 @@
 
 I'm **EsunR**, a ✨ _web developer_ ✨ with expertise in React and Vue. 
 
-- 🌐 [My website](https://www.esunr.xyz)
+- 🌐 [My website](https://www.esunr.site)
 
 <picture>
   <img align="left" width="45%" src="/metrics.plugin.languages.svg" alt="Metrics">
